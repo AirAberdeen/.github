@@ -63,8 +63,10 @@ People who have contributed and are happy to be contacted:
 
 - [Alan Gardner](https://github.com/urfolomeus)
 - [Bruce Scharlau](https://github.com/scharlau)
+- [David Fryer](https://github.com/davidf-kincardineshire)
 - [Gavin Barnett](https://github.com/gavbarnett)
 - [Ian Nebbiolo](https://github.com/mrnebbi)
+- [Ian Watt](https://github.com/watty62)
 - [James Littlejohn](https://github.com/aboynejames)
 - [Kevin Mulhern](https://github.com/KMulhern-A)
 
